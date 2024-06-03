@@ -1,0 +1,6 @@
+[submodule "LLMs_Udemy/my_codes/LLMs"]
+	path = LLMs_Udemy/my_codes/LLMs
+	url = https://huggingface.co/spaces/caiomiyashiro/1_question_answering
+[submodule "LLMs_Udemy/my_codes/1_question_answering"]
+	path = LLMs_Udemy/my_codes/1_question_answering
+	url = https://huggingface.co/spaces/caiomiyashiro/1_question_answering
