@@ -1,0 +1,4 @@
+{
+    "python.defaultInterpreterPath": "${workspaceFolder}/llm_zoomcamp/.venv/bin/python",
+    "python.terminal.activateEnvironment": true
+}
